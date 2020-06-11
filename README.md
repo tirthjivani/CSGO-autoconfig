@@ -1,1 +1,1 @@
-# CSGO-autoconfig
+CSGO config file
