@@ -1,1 +1,1 @@
-CSGO config file
+My CSGO config file
